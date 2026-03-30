@@ -33,7 +33,7 @@ A dedicated web platform for physics enthusiasts, simplifying complex A/L concep
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [linkedin.com/in/sashik-perera](https://www.linkedin.com/in/sashik-perera)
+- **LinkedIn:** [linkedin.com/in/sashik-perera](www.linkedin.com/in/sashik-thiwanka-000881211)
 - **WhatsApp:** [+94 70 273 3245](https://wa.me/94702733245)
 - **Email:** sashikthiwanka1975@gmail.com
 
